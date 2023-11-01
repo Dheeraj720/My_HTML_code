@@ -1,0 +1,25 @@
+.th1 {
+    height: 8rem;
+    width: 13rem;
+    border: 2px solid black;
+    margin-left: 11rem;
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+    /* margin: auto; */
+    background: linear-gradient(rgb(240, 164, 164), rgb(70, 255, 107), rgb(81, 81, 254));
+}
+
+.td1 {
+    height: 8rem;
+    width: 13rem;
+    border: 2px dotted black;
+    margin-left: 11rem;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
